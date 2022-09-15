@@ -1,6 +1,5 @@
 # DONT TRASH SO FAST!
 
-Semi-final project @Le Wagon
 Join neighbours to share leftover food, care more and waste less.
 
 Give & get free food – all directly from your community.
