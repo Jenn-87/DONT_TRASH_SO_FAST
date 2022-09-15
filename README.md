@@ -1,4 +1,4 @@
-DONT TRASH SO FAST!
+# DONT TRASH SO FAST!
 
 Join neighbours to share food/leftovers, care more and waste less.
 
